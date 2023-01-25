@@ -1,0 +1,11 @@
+.feed{
+    flex:5.5;
+    background-color: #d4d4d4;
+}
+.share,.post{
+    background-color: white;
+}
+
+.feedWrapper{
+    padding: 20px;
+}
